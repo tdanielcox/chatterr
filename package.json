@@ -10,6 +10,7 @@
   "author": "Daniel Cox",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "mime": "1.x.x",
     "node-themoviedb": "^0.2.7",
@@ -17,7 +18,7 @@
     "request": "^2.88.0",
     "sqlite": "^4.0.19",
     "sqlite3": "^5.0.2",
-    "websocket": "1.0.x",
+    "websocket": "^1.0.33",
     "winston": "^3.3.3"
   },
   "devDependencies": {
