@@ -14,11 +14,10 @@
     "express": "^4.17.1",
     "mime": "1.x.x",
     "node-themoviedb": "^0.2.7",
-    "q": "0.9.x",
     "request": "^2.88.0",
-    "sqlite": "^4.0.19",
     "sqlite3": "^5.0.2",
     "websocket": "^1.0.33",
+    "websocket-stream": "^5.5.2",
     "winston": "^3.3.3"
   },
   "devDependencies": {

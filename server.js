@@ -13,7 +13,7 @@ app.listen(port, async () => {
         new GroupMe(new Radarr());
     }
 
-    console.log(`Talkerr listening at http://localhost:${port}`);
+    console.log(`Chatterr listening at http://localhost:${port}`);
 });
 
 
